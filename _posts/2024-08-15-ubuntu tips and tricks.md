@@ -55,7 +55,7 @@ Install using the following command:
 sudo apt install ./<file>.deb
 ```
 
-**Setting up your facourite image editing software**
+**Setting up your favourite image editing software**\
 Install using the following command:
 ```shell
 sudo apt install gimp

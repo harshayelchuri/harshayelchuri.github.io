@@ -6,7 +6,7 @@ subtitle: Post Baccalaureate Fellow @ IIT Madras | IISc | Boeing
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>harshayelchuri2000@gmail.com</p>
