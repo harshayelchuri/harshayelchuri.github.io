@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Teaching Assistant for "Design of IoT course" 2022
-
+Tutor for Intel Unnati (TinyML) program
