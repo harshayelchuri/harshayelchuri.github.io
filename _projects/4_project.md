@@ -55,4 +55,4 @@ for A1-TimelyFL, A2-RE-SAL with TimelyFL configurations , and A3- RE-SAFL approa
 From the graph, it becomes evident that A3 consistently outperforms the other two algorithms across all three rounds of evaluation. This
 superior performance underscores the effectiveness of our RE-SAFL framework, particularly when it comes to considering the resource constraints of client devices and making informed decisions to maximize their participation in the aggregation process.
 
-For more details, kindly have a look at our paper {% cite sasindran2024towards %} and reach out to me for further details.
+For more details, kindly have a look at our paper {% cite 10485914 %} and reach out to me for further details.
