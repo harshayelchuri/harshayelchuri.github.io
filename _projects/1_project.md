@@ -24,7 +24,7 @@ The above figure shows a general FL setting. It consists of a set of clients (ed
 
 **Ed-Fed Framework:**
 
-Now, we will go through our Ed-Fed framework{% cite 10191316 %}. We first discuss the methodology for facilitating on-device training and weight updation of models in the clients, followed by a brief overview on the communication protocol and the server-side algorithms used.
+Now, we will go through our Ed-Fed framework{% cite edfed10191316 %}. We first discuss the methodology for facilitating on-device training and weight updation of models in the clients, followed by a brief overview on the communication protocol and the server-side algorithms used.
 
 **Client**
 
@@ -88,4 +88,4 @@ Evaluation of Ed-Fed Performance on Android-based Mobile Phones for ASR tasks
 
 The above figure depicts the findings obtained on deployment of our Ed-Fed framework on multiple phones. The experiment is carried for 8 rounds on 4 mobile devices. In each round, 3 clients are selected. The round 0 in the figure refers to the initial global weights. All the checkpoints that are obtained at the end of each FL round are put to the test on a global test set. As could be predicted, the WER declines as the number of FL rounds grow.
 
-For more details, kindly have a look at our paper {% cite 10191316 %} and reach out to me for further details.
+For more details, kindly have a look at our paper {% cite edfed10191316 %} and reach out to me for further details.
