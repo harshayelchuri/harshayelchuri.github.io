@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Post Baccalaureate Fellow @ IIT Madras | IISc | Boeing 
+subtitle: M.Sc. Mobile Robotics @ University of Bonn | Student Research Assistant @ Fraunhofer FKIE
 
 profile:
   align: right
@@ -16,6 +16,10 @@ news: true # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
-Hey there! I'm Harsha Yelchuri, a robotics researcher. I graduated with a B.E. in Information Science from R.V. College of Engineering.  After college, I jumped into research at the Indian Institute of Science. I worked on some pretty cool stuff like Robotics, Federated Learning, NLP, On-Device Learning, and TinyML. Currently, at RBCDSAI, I'm exploring the intersection of planning, control, and foundation models in robotics under the guidance of Prof. Balaraman Ravindran.
+I'm an M.Sc. Mobile Robotics student at the University of Bonn and a Student Research Assistant at Fraunhofer FKIE. My research focuses on robot learning, vision-language-action models, mobile manipulation, and active perception.
+
+Previously, I was a Post-Baccalaureate Fellow at the Indian Institute of Technology Madras, where I worked with Prof. Balaraman Ravindran on diffusion-based control policies for safe robot learning.
+
+Before that, I was a Project Associate at the Indian Institute of Science, Bengaluru, working with Prof. T. V. Prabhakar. My research included robotic teleoperation and digital twins, federated learning, speech-recognition evaluation metrics, resource-aware on-device learning and TinyML.
 
 When I'm not busy with robots, you'll find me behind a camera or probably watching anime.
